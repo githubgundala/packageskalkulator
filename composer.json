@@ -1,0 +1,18 @@
+{
+    "name": "agrp/kalkulator",
+    "description": "Membuat packages kalkulator",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bitbucketgundala",
+            "email": "dichagundala@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Gundala\\Kalkulator\\": "src/"
+        }
+    }
+}
